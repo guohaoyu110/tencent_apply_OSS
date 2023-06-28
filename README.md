@@ -6,6 +6,11 @@ https://opensource.tencent.com/summer-of-code
 
 项目申请书模板：https://github.com/Tencent/OpenSourceTalent/issues/37
 
+
+项目申请文书: https://wj.qq.com/s2/12510368/0e3c/
+
+一共可以申请三个项目，每个项目都要写清楚proposal，用google doc写，然后上传。
+
 7月23日24点报名正式截止!!!
 
 1. Apache InLong-一站式海量数据集成框架
